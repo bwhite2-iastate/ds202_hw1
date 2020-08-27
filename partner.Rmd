@@ -1,0 +1,15 @@
+---
+title: "partner.Rmd"
+author: "Felix Baez-Santiago"
+date: "8/27/2020"
+output: html_document
+---
+
+Felix Baez-Santiago, felbasa
+
+What he did in the latest commit was add the homework files to the repo. The owner commit ID is e35c5fbec2bed0d36ce783672444dea145c6a7ac. Knitting was successful and did not encounter any errors. I made a spelling mistake on the html file so my partner had to help me find and rename it.
+
+
+
+
+
